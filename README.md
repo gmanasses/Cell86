@@ -1,4 +1,4 @@
-# Cell86
+# Cell 86
 
 Many requests have been made to me for the Cell 86 code to be published here on Github for learning the game development process.
 
